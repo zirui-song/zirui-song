@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 - 🔭 I’m currently a PhD student at MIT Sloan.
 - 📫 How to reach me: zrsong@mit.edu.
